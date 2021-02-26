@@ -1,3 +1,6 @@
+# Мои проекты
+- https://vk.com/gameapps_off (фронт - React / бек - PHP)
+
 # Веб разработка и не только
 
 - Создание VK Mini Apps
