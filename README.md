@@ -1,14 +1,6 @@
-# Веб разработка и не только
+## Backend PHP веб-разработчик. 
 
-- Создание VK Mini Apps
-- Создание плагинов / сборок CS 1.6
-- Написание модулей для GoldSource игр на языке C++
-- Разработка сайтов на CMS (like WordPress, Drupal, etc..) и на фреймворках (Laravel)
-
-## Контакты
-- VK: vk.com/alexfiner
-- @: finersanya@gmail.com
-- tg: @alexandrfiner
+Работаю с Laravel и различными CMS.
 
 <details>
  <summary> <samp>📝 Мои работы</samp></summary>
@@ -26,3 +18,8 @@
 - и горсть других проектов :)<br>
 - https://vk.com/billions_mg (фронт - React / бек - PHP)<br>
 </details>
+
+[![Telegram](https://img.shields.io/badge/Telegram-fff?logo=Telegram&logoColor=white)](https://t.me/@lexandrfiner/)
+[![VK](https://img.shields.io/badge/VK-0077ff?logo=VK&logoColor=white)](https://vk.com/alexfiner/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:finersanya@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrfiner/)
