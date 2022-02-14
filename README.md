@@ -19,7 +19,7 @@
 - https://vk.com/billions_mg (фронт - React / бек - PHP)<br>
 </details>
 
-[![Telegram](https://img.shields.io/badge/Telegram-fff?logo=Telegram&logoColor=white)](https://t.me/@lexandrfiner/)
+[![Telegram](https://img.shields.io/badge/Telegram-fff?logo=Telegram&logoColor=white)](https://t.me/alexandrfiner/)
 [![VK](https://img.shields.io/badge/VK-0077ff?logo=VK&logoColor=white)](https://vk.com/alexfiner/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:finersanya@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrfiner/)
