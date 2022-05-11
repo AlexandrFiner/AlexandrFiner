@@ -7,6 +7,11 @@
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrfiner&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10&locale=ru)
 
 <details>
+ <summary> <samp>⌛ Опыт работы</samp></summary>
+soon..
+</details>
+
+<details>
  <summary> <samp>📝 Мои работы</samp></summary>
 - https://vk.com/gameapps_off (фронт - React / бек - PHP)<br>
 - https://vk.com/watch_the_ad (на основе работы другого разработчика, добавление рекапчи, фрон - React / бек - NodeJS) <br>
