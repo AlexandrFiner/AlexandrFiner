@@ -1,4 +1,4 @@
-## Junior+ Backend PHP веб-разработчик. 
+## Backend PHP / Fullstack developer. 
 
 Работаю с Laravel и различными CMS.
 
