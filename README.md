@@ -8,7 +8,7 @@
 
 <details>
  <summary> <samp>⌛ Опыт работы</samp></summary>
-soon..
+Yord.tech: 2022.05 - текущее время 
 </details>
 
 <details>
