@@ -1,8 +1,7 @@
 <img src="https://github.com/alexandrfiner/alexandrfiner/blob/main/banner.png" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrfiner&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexandrfiner&show_icons=true&theme=dark&title_color=6273FC&icon_color=FFB251&text_color=858585&border_radius=15&hide_border=true&bg_color=%23F5F5F5&include_all_commits=true&count_private=true&custom_title=Alexandr`s Stats&disable_animations=true&hide_rank=true&text_bold=false&hide=stars,prs,issues,contribs)
 <br>
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrfiner&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10&locale=ru)
 
 <details>
  <summary> <samp>⌛ Опыт работы</samp></summary>
