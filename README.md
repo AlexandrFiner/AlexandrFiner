@@ -1,4 +1,5 @@
-<img src="https://github.com/alexandrfiner/alexandrfiner/blob/main/banner.png"/>
+![Egg](https://img1.picmix.com/output/stamp/normal/9/1/7/7/2387719_17884.gif)
+
 
 ### Languages and Tools
 ![Yii2](https://img.shields.io/badge/YesItIS-131313?style=for-the-badge&logo=hyper)
