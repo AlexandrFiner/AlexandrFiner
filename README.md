@@ -26,5 +26,5 @@ Yord.tech: 2022.05 - текущее время
 
 [![Telegram](https://img.shields.io/badge/Telegram-131313?style=for-the-badge&logo=telegram)](https://t.me/alexandrfiner)
 [![VK](https://img.shields.io/badge/Vkontakte-131313?style=for-the-badge&logo=vk)](https://vk.com/alexfiner)
-[![Email](https://img.shields.io/badge/Email-131313?style=for-the-badge&logo=Gmail)](mailto:finersanya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-131313?style=for-the-badge&logo=Gmail)](mailto:a_morohin@vk.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-131313?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alexandrfiner/)
