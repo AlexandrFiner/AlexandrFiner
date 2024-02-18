@@ -2,7 +2,6 @@
 
 
 ### Languages and Tools
-![Yii2](https://img.shields.io/badge/YesItIS-131313?style=for-the-badge&logo=hyper)
 ![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-131313?style=for-the-badge&logo=php)
 ![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
