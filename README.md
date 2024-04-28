@@ -19,10 +19,10 @@
 <details>
  <summary> <samp>⌛ Опыт работы</samp></summary>
 
-|                                          |                    |                              |
-| ---------------------------------------- | ------------------ | ---------------------------- |
-| [findmykids.org](https://findmykids.org) | Backend PHP        | 04.2024 - текущее время      |
-| [yord.tech](https://yord.tech)           | FullStack PHP Vue  | 05.2022 - 04.2024.           |
+|                   |                                          |                    |                              |
+| ----------------- | ---------------------------------------- | ------------------ | ---------------------------- |
+| ![fmk](fmk.svg)   | [findmykids.org](https://findmykids.org) | Backend PHP        | 04.2024 - текущее время      |
+| ![yord](yord.svg) | [yord.tech](https://yord.tech)           | FullStack PHP Vue  | 05.2022 - 04.2024.           |
 
 </details>
 
