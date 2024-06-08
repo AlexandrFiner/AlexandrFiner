@@ -1,6 +1,5 @@
 ![kids360](360.png)
-![Egg](https://img1.picmix.com/output/stamp/normal/9/1/7/7/2387719_17884.gif)
-
+![](https://i.pinimg.com/originals/4a/06/ef/4a06efb5a2f39feaa2f81b9f3d179a94.gif)
 
 ### Languages and Tools
 ![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
