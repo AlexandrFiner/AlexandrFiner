@@ -1,34 +1,17 @@
-![kids360](360.png)
 ![](https://i.pinimg.com/originals/4a/06/ef/4a06efb5a2f39feaa2f81b9f3d179a94.gif)
 
-### Languages and Tools
-![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-131313?style=for-the-badge&logo=php)
-![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
-![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-131313?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-131313?style=for-the-badge&logo=css3)
-
-### Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alexandrfiner&show_icons=true&theme=dark&title_color=6273FC&icon_color=FFB251&text_color=858585&border_radius=15&hide_border=true&bg_color=%23F5F5F5&include_all_commits=true&count_private=true&custom_title=Alexandr`s%20Stats&disable_animations=true&hide_rank=true&text_bold=false&hide=stars,prs,issues,contribs)
-<br>
-
-### Work
-
 <details>
- <summary> <samp>⌛ Опыт работы</samp></summary>
+ <summary> <samp>⌛ Experience </samp></summary>
 
-|                   |                                          |                    |                              |
-| ----------------- | ---------------------------------------- | ------------------ | ---------------------------- |
-| ![fmk](fmk.svg)   | [findmykids.org](https://findmykids.org) | Backend PHP        | 04.2024 - текущее время      |
-| ![yord](yord.svg) | [yord.tech](https://yord.tech)           | FullStack PHP Vue  | 05.2022 - 04.2024.           |
+|                                          |                    |                              |
+| ---------------------------------------- | ------------------ | ---------------------------- |
+| [findmykids.org](https://findmykids.org) | Backend PHP        | 04.2024 - now                |
+| [yord.tech](https://yord.tech)           | FullStack PHP Vue  | 05.2022 - 04.2024.           |
 
 </details>
 
 ### Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-131313?style=for-the-badge&logo=telegram)](https://t.me/alexandrfiner)
-[![VK](https://img.shields.io/badge/Vkontakte-131313?style=for-the-badge&logo=vk)](https://vk.com/alexfiner)
 [![Email](https://img.shields.io/badge/Email-131313?style=for-the-badge&logo=Gmail)](mailto:a_morohin@vk.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-131313?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alexandrfiner/)
